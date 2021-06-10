@@ -2,7 +2,8 @@
 
 Analista de Redes e de Comunicação de Dados na Titânia Telecom. 
 
-Responsibilities: Suporte e administração de Firewalls, atendimento aos clientes corporativos e empresariais.
+#### Responsibilities
+Suporte e administração de Firewalls, atendimento aos clientes corporativos e empresariais.
 
 Knowledge Interest:
 
