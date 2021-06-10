@@ -1,4 +1,4 @@
-### Hi there, I'm André
+## Hi there, I'm André
 
 ### About me
 
