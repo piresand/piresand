@@ -23,8 +23,7 @@ Knowledge Interest:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-s-pires)](https://br.linkedin.com/in/andre-s-pires?trk=profile-badge)
 [![E-mail Badge](https://img.shields.io/badge/Email-andrepires.corporativo%40gmail.com-green)](andrepires.corporativo@gmail.com)
  
- <a href="https://github.com/piresand">
+<a href="https://github.com/piresand">
 <img align="center" alt="piresand's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=piresand&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 <a href="https://github.com/piresand">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=piresand&layout=compact&theme=radical" />
-</a>
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=piresand&layout=compact&theme=radical" /></a>
