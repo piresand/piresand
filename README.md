@@ -17,8 +17,6 @@ Knowledge Interest:
 - Network Analysis
 
 #### Get in touch:
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="horizontal" data-theme="dark" data-vanity="andre-s-pires"><a class="LI-simple-link" href='https://br.linkedin.com/in/andre-s-pires?trk=profile-badge'>LinkedIn</a></div>
-
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/piresand)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://br.linkedin.com/in/andre-s-pires?trk=profile-badge)
 
