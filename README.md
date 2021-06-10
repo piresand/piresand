@@ -16,6 +16,6 @@ Knowledge Interest:
 #### Get in touch:
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="horizontal" data-theme="dark" data-vanity="andre-s-pires"><a class="LI-simple-link" href='https://br.linkedin.com/in/andre-s-pires?trk=profile-badge'>LinkedIn</a></div>
  
-![image]({https://www.linkedin.com/in/piresand/})
+<img src="{https://www.linkedin.com/in/piresand}" />   
 
-<img src="{https://github.com/piresand}" />
+<img src="{https://github.com/piresand}" />   
