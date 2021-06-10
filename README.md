@@ -2,7 +2,8 @@
 
 ### About me
 
-Analista de Redes e de Comunicação de Dados na Titânia Telecom. 
+- Analista de Redes e de Comunicação de Dados na Titânia Telecom. 
+- Pós graduando em Cyber Security e governança de TI.
 
 Responsibilities: Suporte e administração de Firewalls, atendimento aos clientes corporativos e empresariais.
 
