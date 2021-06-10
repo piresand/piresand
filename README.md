@@ -8,7 +8,7 @@ Knowledge Interest:
 - Ethical Hacking
 - Cybersecurity
 - Firewalls
-- TI
+- IT
 - Open Source 
 - Linux
 - Computer Network
