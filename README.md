@@ -22,3 +22,5 @@ Knowledge Interest:
 [![E-mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](andrepires.corporativo@gmail.com)
 
 [![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/piresand?si=6FSV8wgIRoOSdEnQ4OG4Og&utm_source=copy-link&dl_branch=1)
+
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
