@@ -18,4 +18,4 @@ Knowledge Interest:
  
 <img src="{https://www.linkedin.com/in/piresand}" />   
 
-<img src="{https://github.com/piresand}" />   
+<img src="{https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen}" />   
