@@ -24,3 +24,9 @@ Knowledge Interest:
 [![E-mail Badge](https://img.shields.io/badge/Email-andrepires.corporativo%40gmail.com-green)](andrepires.corporativo@gmail.com)
  
  
+ 
+[website]: https://sabesansathananthan.now.sh
+[twitter]: https://twitter.com/TheSabesan
+[facebook]: https://www.facebook.com/sathananthan.sabesan
+[instagram]: https://www.instagram.com/s_sabesan
+[linkedin]: https://www.linkedin.com/in/sabesan96
