@@ -2,7 +2,7 @@
 
 ### About me
 
-Network Analyst of Data communication at Titânia Telecom. Graduated in Computer Networks and post-graduated in an MBA in Cybersecurity and Information Technology Governance.
+Network Analyst of Data Communication at Titânia Telecom. Graduated in Computer Networks and post-graduated in an MBA in Cybersecurity and Information Technology Governance.
 
 Responsibilities: Firewall support and administration, service to corporate and business customers.
 
