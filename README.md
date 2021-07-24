@@ -1,5 +1,7 @@
 ## Hi there, I'm André 👋
 
+# Hello, folks! I'm André <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 ### About me
 
 Network Analyst of Data Communication at Titânia Telecom. Graduated in Computer Networks and post-graduated in an MBA in Cybersecurity and Information Technology Governance.
