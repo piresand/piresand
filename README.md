@@ -1,5 +1,3 @@
-## Hi there, I'm André 👋
-
 # Hello, folks! I'm André <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ### About me
