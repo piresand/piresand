@@ -1,4 +1,5 @@
 # Hello, folks! I'm André <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+![image](https://user-images.githubusercontent.com/30474126/126912510-59ffc88a-a7b9-4067-a0e6-57efb4059e4e.png)
 
 ### About me
 
@@ -17,9 +18,6 @@ Knowledge Interest:
 - Linux
 - Computer Network
 - Network Analysis
-
-![image](https://user-images.githubusercontent.com/30474126/126912493-afc59746-9854-4b72-b3b3-d93fd4123848.png)
-
 
 ### Connect with me:
 [![E-mail Badge](https://img.shields.io/badge/Email-andrepires.corporativo%40gmail.com-green)](andrepires.corporativo@gmail.com)
