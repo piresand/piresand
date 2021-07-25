@@ -18,7 +18,8 @@ Knowledge Interest:
 - Computer Network
 - Network Analysis
 
-![image](https://user-images.githubusercontent.com/30474126/126912425-631865b6-c72c-4a30-b5ec-06788f4a6d7d.png)
+![image](https://user-images.githubusercontent.com/30474126/126912493-afc59746-9854-4b72-b3b3-d93fd4123848.png)
+
 
 ### Connect with me:
 [![E-mail Badge](https://img.shields.io/badge/Email-andrepires.corporativo%40gmail.com-green)](andrepires.corporativo@gmail.com)
