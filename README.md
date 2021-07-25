@@ -1,5 +1,5 @@
 # Hello, folks! I'm André <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-![image](https://user-images.githubusercontent.com/30474126/126912574-7098f4d9-6410-4403-8b14-88bdd120cb2e.png)
+![image](https://user-images.githubusercontent.com/30474126/126912611-de3cc837-8039-440c-b16e-7b530a71b291.png)
 
 ### About me
 
