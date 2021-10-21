@@ -6,18 +6,6 @@
 
 Network Analyst of Data Communication at Titânia Telecom. Graduated in Computer Networks and post-graduated in an MBA in Cybersecurity and Information Technology Governance.
 
-Knowledge Interest:
-
-- Infosec
-- Ethical Hacking
-- Cybersecurity
-- Firewalls
-- IT
-- Open Source 
-- Linux
-- Computer Network
-- Network Analysis
-
 ### Connect with me:
 [![E-mail Badge](https://img.shields.io/badge/Email-andrepires.corporativo%40gmail.com-green)](andrepires.corporativo@gmail.com)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=piresand)
