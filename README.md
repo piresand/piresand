@@ -2,11 +2,11 @@
 
 <p align="left"><img src="https://user-images.githubusercontent.com/30474126/126912687-abbda8ed-12cc-4607-8724-75ff66623fc3.png" /></p>
 
-### About me
+## About me
 
 Network Analyst | Coordinator at Titânia Telecom | Postgraduate MBA in CyberSecurity and Information Technology Governance | Infosec enthusiast
 
-### Connect with me:
+#### Connect with me:
 [![E-mail Badge](https://img.shields.io/badge/Email-andrepires.corporativo%40gmail.com-green)](andrepires.corporativo@gmail.com)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=piresand)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/piresand)
