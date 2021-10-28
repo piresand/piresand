@@ -2,7 +2,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=piresand&theme=blue-green)](https://github.com/piresand/github-readme-stats)
 
-## About me
+### About me
 
 Network Analyst | Coordinator at Titânia Telecom | Postgraduate MBA in CyberSecurity and Information Technology Governance | Infosec enthusiast
 
