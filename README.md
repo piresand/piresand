@@ -1,12 +1,10 @@
 # Hello, folks! I'm André <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<p align="left"><img src="https://user-images.githubusercontent.com/30474126/126912687-abbda8ed-12cc-4607-8724-75ff66623fc3.png" /></p>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=piresand&theme=blue-green)](https://github.com/piresand/github-readme-stats)
 
 ## About me
 
 Network Analyst | Coordinator at Titânia Telecom | Postgraduate MBA in CyberSecurity and Information Technology Governance | Infosec enthusiast
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=piresand&theme=blue-green)](https://github.com/piresand/github-readme-stats)
 
 #### Connect with me:
 [![E-mail Badge](https://img.shields.io/badge/Email-andrepires.corporativo%40gmail.com-green)](andrepires.corporativo@gmail.com)
