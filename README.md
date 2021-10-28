@@ -13,3 +13,4 @@ Network Analyst | Coordinator at Titânia Telecom | Postgraduate MBA in CyberSec
 </a>
 [![E-mail Badge](https://img.shields.io/badge/Email-andrepires.corporativo%40gmail.com-green)](andrepires.corporativo@gmail.com)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=piresand)
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/piresand)
