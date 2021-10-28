@@ -4,7 +4,7 @@
 
 ### About me
 
-Network Analyst | Coordinator at Titânia Telecom | Postgraduate MBA in CyberSecurity and Information Technology Governance | Infosec enthusiast
+Network Analyst | Coordinator at Titânia Telecom | Postgraduate MBA in CyberSecurity and Information Technology Governance | Infosec enthusiast 💻
 
 #### Connect with me:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/piresand)](https://github.com/piresand)
