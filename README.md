@@ -11,3 +11,5 @@ Network Analyst | Coordinator at Titânia Telecom | Postgraduate MBA in CyberSec
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=piresand)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/piresand)](https://github.com/piresand)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-piresand?style=for-the-badge&logoColor=white&link=https://www.linkedin.com/in/piresand/)](https://www.linkedin.com/in/piresand/)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=piresand&theme=blue-green)](https://github.com/piresand/github-readme-stats)
