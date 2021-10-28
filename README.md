@@ -4,7 +4,7 @@
 
 ### About me
 
-Network Analyst | Coordinator at Titânia Telecom | Postgraduate MBA in CyberSecurity and Information Technology Governance | Infosec enthusiast 💻
+Network Analyst | Coordinator at Titânia Telecom | Postgraduate MBA in CyberSecurity and Information Technology Governance | Infosec enthusiast 💻 :octocat:
 
 #### Connect with me:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/piresand)](https://github.com/piresand)
@@ -14,7 +14,7 @@ Network Analyst | Coordinator at Titânia Telecom | Postgraduate MBA in CyberSec
 <a href="mailto:<andrepires.corporativo@gmail.com>" alt="gmail" target="_blank">
 <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:<andrepires.corporativo@gmail.com>" />
 </a>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=piresand):octocat:
+![visitors](https://visitor-badge.glitch.me/badge?page_id=piresand)
 
 
 
