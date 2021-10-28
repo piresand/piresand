@@ -12,3 +12,4 @@ Network Analyst | Coordinator at Titânia Telecom | Postgraduate MBA in CyberSec
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/piresand)](https://github.com/piresand)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-piresand?style=for-the-badge&logoColor=white&link=https://www.linkedin.com/in/piresand/)](https://www.linkedin.com/in/piresand/)
 
+[![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/piresand)
