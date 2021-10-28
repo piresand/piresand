@@ -4,7 +4,7 @@
 
 ### About me
 
-Network Analyst of Data Communication at Titânia Telecom. Graduated in Computer Networks and post-graduated in an MBA in Cybersecurity and Information Technology Governance.
+Network Analyst at Titânia Telecom. Graduated in Computer Networks and post-graduated in an MBA in Cybersecurity and Information Technology Governance.
 
 ### Connect with me:
 [![E-mail Badge](https://img.shields.io/badge/Email-andrepires.corporativo%40gmail.com-green)](andrepires.corporativo@gmail.com)
