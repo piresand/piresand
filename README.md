@@ -14,7 +14,6 @@ Network Analyst | Information Security | Cyber Security | Computer Network | Pos
 <a href="mailto:<andrepires.corporativo@gmail.com>" alt="gmail" target="_blank">
 <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:<andrepires.corporativo@gmail.com>" />
 </a>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=piresand)
 
 
 
