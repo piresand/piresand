@@ -11,9 +11,6 @@ Network Analyst | Information Security | Cyber Security | Computer Network | Pos
 <a href="https://www.linkedin.com/in/piresand" alt="linkedin" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-piresand.svg?&style=flat-square&logo=linkedin&logoColor=white">
 </a>
-<a href="mailto:<andrepires.corporativo@gmail.com>" alt="gmail" target="_blank">
-<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:<andrepires.corporativo@gmail.com>" />
-</a>
 
 
 
