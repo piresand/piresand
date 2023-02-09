@@ -7,7 +7,6 @@
 Network Analyst | Information Security | Cyber Security | Computer Network | Postgraduate MBA in CyberSecurity and Information Technology Governance | Infosec enthusiast 💻 :octocat:
 
 #### Connect with me:
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/piresand)](https://github.com/piresand)
 <a href="https://www.linkedin.com/in/piresand" alt="linkedin" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-piresand.svg?&style=flat-square&logo=linkedin&logoColor=white">
 </a>
