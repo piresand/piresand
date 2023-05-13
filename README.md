@@ -4,7 +4,7 @@
 
 ### About me
 
-Network Analyst | Information Security | Cyber Security | Computer Network | Postgraduate MBA in CyberSecurity and Information Technology Governance | Infosec enthusiast 💻 :octocat:
+Network Analyst | Information Security | Cyber Security | Computer Network | Postgraduate MBA in CyberSecurity and Information Technology Governance | NSE4 | Cyber Security Student | Network Security | Infosec enthusiast 💻 :octocat:
 
 #### Connect with me:
 <a href="https://www.linkedin.com/in/piresand" alt="linkedin" target="_blank">
