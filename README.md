@@ -1,7 +1,5 @@
 # Hello, folks! I'm André Pires <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=piresand&theme=blue-green)](https://github.com/piresand/github-readme-stats)
-
 #### About me
 
 💻 Network and Information Security Analyst at the Ministério Público of the State of Mato Grosso | I have a Degree in Computer Networks and a Postgraduate Master Business Administration in Cybersecurity and Governance in Information Technologies | Information Security | Network Security | Infosec enthusiast | Cyber Security Student :octocat:
