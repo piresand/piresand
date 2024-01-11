@@ -11,7 +11,4 @@ Network Analyst | Information Security | Computer Network | Postgraduate MBA in 
 <img src="https://img.shields.io/badge/LinkedIn-piresand.svg?&style=flat-square&logo=linkedin&logoColor=white">
 </a>
 
-<script src="https://tryhackme.com/badge/531341"></script>  
-
-
 
