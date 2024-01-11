@@ -1,10 +1,10 @@
-# Hello, folks! I'm André <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks! I'm André Pires <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=piresand&theme=blue-green)](https://github.com/piresand/github-readme-stats)
 
-### About me
+#### About me
 
-💻 Network Analyst | Information Security | Computer Network | Postgraduate MBA in CyberSecurity and Information Technology Governance | Infosec enthusiast  :octocat:
+💻 Network and Information Security Analyst at the Public Ministry of the State of Mato Grosso | I have a degree in Computer Networks and a Postgraduate Degree in CyberSecurity and IT Governance | Information Security | Network Security | Infosec enthusiast | Cyber Security Student :octocat:
 
 #### Connect with me:
 ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/01db0y.png)
