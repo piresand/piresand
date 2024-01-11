@@ -7,9 +7,10 @@
 Network Analyst | Information Security | Computer Network | Postgraduate MBA in CyberSecurity and Information Technology Governance | Infosec enthusiast 💻 :octocat:
 
 #### Connect with me:
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/01db0y.png)
+
 <a href="https://www.linkedin.com/in/piresand" alt="linkedin" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-piresand.svg?&style=flat-square&logo=linkedin&logoColor=white">
 </a>
 
-![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/01db0y.png)
 
