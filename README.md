@@ -2,11 +2,11 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=piresand&theme=blue-green)](https://github.com/piresand/github-readme-stats)
 
+[![TryHackMe Badge](https://tryhackme.com/badge/531341)
+
 ### About me
 
 Network Analyst | Information Security | Computer Network | Postgraduate MBA in CyberSecurity and Information Technology Governance | Infosec enthusiast 💻 :octocat:
-
-![TryHackMe Badge](https://tryhackme.com/badge/531341)
 
 #### Connect with me:
 <a href="https://www.linkedin.com/in/piresand" alt="linkedin" target="_blank">
