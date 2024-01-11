@@ -4,7 +4,7 @@
 
 ### About me
 
-Network Analyst | Information Security | Computer Network | Postgraduate MBA in CyberSecurity and Information Technology Governance | Infosec enthusiast 💻 :octocat:
+💻 Network Analyst | Information Security | Computer Network | Postgraduate MBA in CyberSecurity and Information Technology Governance | Infosec enthusiast  :octocat:
 
 #### Connect with me:
 ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/01db0y.png)
