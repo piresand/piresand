@@ -9,8 +9,8 @@ Network Analyst | Information Security | Computer Network | Postgraduate MBA in 
 #### Connect with me:
 <a href="https://www.linkedin.com/in/piresand" alt="linkedin" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-piresand.svg?&style=flat-square&logo=linkedin&logoColor=white">
-<script src="https://tryhackme.com/badge/531341"></script>
 </a>
+<script src="https://tryhackme.com/badge/531341"></script>
 
 
 
