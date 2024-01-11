@@ -2,7 +2,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=piresand&theme=blue-green)](https://github.com/piresand/github-readme-stats)
 
-![TryHackMe Badge](https://tryhackme.com/badge/531341)
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/01db0y.png)
 
 ### About me
 
