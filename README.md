@@ -8,6 +8,6 @@
 ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/01db0y.png)
 
 [![E-mail Badge](https://img.shields.io/badge/Email-andrepires.corporativo%40gmail.com-green)](andrepires.corporativo@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-s-pires)](https://br.linkedin.com/in/andre-s-pires?trk=profile-badge)  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-s-pires)](https://www.linkedin.com/in/piresand/)  
 
 
