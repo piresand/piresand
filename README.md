@@ -4,7 +4,7 @@
 
 💻 Network and Information Security Analyst at the Ministério Público of the State of Mato Grosso | I have a Degree in Computer Networks and a Postgraduate Master Business Administration in Cybersecurity and Governance in Information Technologies | Information Security | Network Security | Infosec enthusiast | Cyber Security Student :octocat:
 
-#### Connect with me:
+#### 📧 Connect with me:
 ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/01db0y.png)
 
 [![E-mail Badge](https://img.shields.io/badge/Email-andrepires.corporativo%40gmail.com-green)](andrepires.corporativo@gmail.com)
